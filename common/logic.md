@@ -2,12 +2,12 @@
 
 **Обозначения:**
 
-![](./logic_legend.png)
+![](https://raw.github.com/zb3k/ff-docs/master/common/logic_legend.png)
 
 ## Пример отработки простого запроса
 
-![](./logic_scheme_1.png)
+![](https://raw.github.com/zb3k/ff-docs/master/common/logic_scheme_1.png)
 
 **В виде блоксхемы:**
 
-![](./logic_block_scheme.png)
+![](https://raw.github.com/zb3k/ff-docs/master/common/logic_block_scheme.png)
