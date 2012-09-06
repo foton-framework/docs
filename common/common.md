@@ -5,8 +5,8 @@
 * **[extensions](#extensions)**
 * **[framework](#framework)**
 * **[templates](#templates)**
-* [.FF_DEBUG](#FF_DEBUG)
-* [.FF_DEVMODE](#FF_DEVMODE)
+* [.FF_DEBUG](#ff_debug)
+* [.FF_DEVMODE](#ff_devmode)
 * [index.php](#index_php)
 
 <a id="application"></a>
@@ -92,7 +92,7 @@
 
 Папка с шаблонами сайта. За вывод шаблонов отвечает библиотека `Template`.
 
-<a id="FF_DEBUG"></a>
+<a id="ff_debug"></a>
 ## .FF_DEBUG
 Если данный файл имеется в корне сйата то константа `FF_DEBUG` будет иметь значение `TRUE`.
 
@@ -100,7 +100,7 @@
 
 Используется в `framework/core/run.php`
 
-<a id="FF_DEVMODE"></a>
+<a id="ff_devmode"></a>
 ## .FF_DEVMODE
 Если данный файл имеется в корне сйата то константа `FF_DEVMODE` будет иметь значение `TRUE`
 
